@@ -2,7 +2,7 @@
 
 echo "please enter your username"
 
-read Username
+read -s Username
 
 echo "USERNAME is entered: $USERNAME"
 
