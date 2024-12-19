@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "ALL VARIABLES PASSED THOURGH THE SCRIPT : $@"
+echo "NUMBER OF VARIABLES PASSED : $#"
+echo "SCRIPT NAME : $0"
