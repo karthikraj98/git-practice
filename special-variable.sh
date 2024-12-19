@@ -17,3 +17,7 @@ echo "home directory of current user : $HOME"
 
 #TO KNOW THE PROCESS ID OF CURRENT RUNNING SCRIPT 
 echo "Process ID of Script name : $$"
+
+#TO KNOW THE PID OF LAST COMMAND
+Sleep 100 &
+echo "PID OF LAST BACKGROUND COMMAND : $!"
