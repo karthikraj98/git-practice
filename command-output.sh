@@ -1,5 +1,5 @@
 #!/bin/bash
 
-Date=$(date)
+DATE=$(date)
 
 echo "Today's date is : $DATE"
