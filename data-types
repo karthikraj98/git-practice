@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #WITH VAIRABLE INSIDE THE SCRIPT 
-A=$919519590
-B=$915151558
+A=919519590
+B=915151558
 Sum=$(($A+$B))
 
 echo "C is : $Sum"
