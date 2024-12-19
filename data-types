@@ -2,6 +2,6 @@
 
 A=$(5)
 B=$(10)
-Sum of numbers=$(A+B)
+Sum of numbers=$(($A+$B))
 
 echo "C is : $Sum of numbers"
