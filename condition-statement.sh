@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Today=$!
+Today=$1
 
 if (Today == "Monday" or "Tuesday" or "Wednesday" or "Thursday" or "Firday")
 {
