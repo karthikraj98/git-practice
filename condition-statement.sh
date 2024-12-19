@@ -2,7 +2,7 @@
 
 Today=$1
 
-if [ $Today = "Monday" "Tuesday" "Wednesday" "Thursday" "sFriday" ]
+if [ Today = "$Monday" "$Tuesday" "$Wednesday" "$Thursday" "$Friday" ]
 then 
     echo "We are have Office today : $Today"
 else
