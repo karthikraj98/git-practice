@@ -5,3 +5,10 @@ B=$915151558
 Sum=$(($A+$B))
 
 echo "C is : $Sum"
+
+
+A=$1
+B=$2
+Sum=$(($A+$B))
+
+echo "D is : $Sum"
