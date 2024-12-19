@@ -5,6 +5,6 @@ DATE=$(date)
 echo "Today's date is : $DATE"
 
 
-DATE=$(date +%f)
+DATE=$(date +%F)
 
 echo "Today's date is : $DATE"
