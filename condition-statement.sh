@@ -2,11 +2,11 @@
 
 Today=$1
 
-if (Today == "Monday" or "Tuesday" or "Wednesday" or "Thursday" or "Firday")
+if (Today == "Monday" or "Tuesday" or "Wednesday" or "Thursday" or "Friday")
 {
 echo "We have Office today"
 }
-else (Today == "Saturday" or "Sunday")
+else
 {
 echo "We are having Weekoff"
 }
