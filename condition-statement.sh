@@ -3,10 +3,8 @@
 Today=$1
 
 if (Today == "Monday" or "Tuesday" or "Wednesday" or "Thursday" or "Friday")
-{
-   echo "We have Office today"
-}
+then 
+     "We have Office today"
 else
-{
-   echo "We are having Weekoff"
-}
+     "We are having Weekoff"
+fi
